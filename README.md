@@ -35,15 +35,3 @@ This project is a practical quiz submission for working with APIs and dynamic Ja
 [View on Figma](https://www.figma.com/design/d1ivzWWbSSlsHkBbOD5IcW/Practical-Quiz-on-API-and-Dynamic-JS?node-id=0-1&t=MJyWFrJsOndP8yTz-1)
 
 ---
-
-## ✅ Features
-
-- Follows layout closely based on the Figma prototype.
-- Dynamically fetches and renders data from APIs (no hardcoding).
-- Fully scrollable page layout.
-- Navigation bar:
-  - Clicking **Friends** navigates to `friends.html`
-  - Clicking **Facebook** (from Friends page) navigates back to `index.html`
-- Clean, responsive design with structured HTML/CSS.
-
----
