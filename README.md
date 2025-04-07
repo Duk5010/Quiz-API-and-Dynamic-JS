@@ -4,7 +4,7 @@ This project is a practical quiz submission for working with APIs and dynamic Ja
 
 ## 🔗 Live Demo
 
-[View Deployed Website](YOUR_DEPLOYED_LINK_HERE)
+[View Deployed Website](https://duk5010.github.io/Quiz-API-and-Dynamic-JS/)
 
 ## 📁 Repository
 
