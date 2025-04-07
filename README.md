@@ -8,7 +8,7 @@ This project is a practical quiz submission for working with APIs and dynamic Ja
 
 ## 📁 Repository
 
-[View Source Code on GitHub](YOUR_REPOSITORY_LINK_HERE)
+[View Source Code on GitHub](https://github.com/Duk5010/Quiz-API-and-Dynamic-JS.git)
 
 ---
 
