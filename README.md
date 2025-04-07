@@ -47,9 +47,3 @@ This project is a practical quiz submission for working with APIs and dynamic Ja
 - Clean, responsive design with structured HTML/CSS.
 
 ---
-
-## 🚀 How to Run Locally
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
